@@ -1,5 +1,6 @@
 # MERN project - A user list
-![text]( image link)
+![UserList]( https://github.com/miya-w/MERN-userCard/blob/main/images/User-UI.png)
+[](https://github.com/miya-w/MERN-userCard/blob/main/images/mern.png)
 
 ## Goal
 - Building client side with React.
@@ -18,6 +19,7 @@
 - Node.js packages:
     - cors
     - body-parser
+    - nodemon
 - React
     - Axios
 ---
