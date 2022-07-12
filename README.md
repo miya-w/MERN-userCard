@@ -1,6 +1,6 @@
 # MERN project - A user list
 ![UserList]( https://github.com/miya-w/MERN-userCard/blob/main/images/User-UI.png)
-[](https://github.com/miya-w/MERN-userCard/blob/main/images/mern.png)
+![MERN](https://github.com/miya-w/MERN-userCard/blob/main/images/mern.png)
 
 ## Goal
 - Building client side with React.
@@ -27,10 +27,10 @@
 ###### 1. Getting Start -  SERVER
 
     1. npm init -y
-        this creates package.json file
+        -> this creates package.json file
         
     2. npm install express mongoose cors nodemon
-        this installs these packages
+        -> this installs these packages
         
     3. Create index.js file, this will contain all connection information
     
